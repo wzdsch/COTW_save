@@ -1,0 +1,442 @@
+[
+    {
+        "action": "TOGGLE_HUNTERMATE_CAMERA",
+        "key": "P"
+    },
+    {
+        "action": "TOGGLE_HUNTERMATE_CAMERA",
+        "key": "GP_RPADLEFT"
+    },
+    {
+        "action": "FIRE_RIGHT",
+        "key": "MOUSE1"
+    },
+    {
+        "action": "FIRE_RIGHT",
+        "key": "GP_RTRIGGER"
+    },
+    {
+        "action": "RELOAD",
+        "key": "R"
+    },
+    {
+        "action": "RELOAD",
+        "key": "GP_RPADUP"
+    },
+    {
+        "action": "MOVE_FORWARD",
+        "key": "W"
+    },
+    {
+        "action": "MOVE_FORWARD",
+        "key": "GP_LSTICKUP"
+    },
+    {
+        "action": "MOVE_BACKWARD",
+        "key": "S"
+    },
+    {
+        "action": "MOVE_BACKWARD",
+        "key": "GP_LSTICKDOWN"
+    },
+    {
+        "action": "MOVE_LEFT",
+        "key": "A"
+    },
+    {
+        "action": "MOVE_LEFT",
+        "key": "GP_LSTICKLEFT"
+    },
+    {
+        "action": "MOVE_RIGHT",
+        "key": "D"
+    },
+    {
+        "action": "MOVE_RIGHT",
+        "key": "GP_LSTICKRIGHT"
+    },
+    {
+        "action": "JUMP",
+        "key": "SPACE"
+    },
+    {
+        "action": "JUMP",
+        "key": "GP_RPADDOWN"
+    },
+    {
+        "action": "INTERACT",
+        "key": "E"
+    },
+    {
+        "action": "INTERACT",
+        "key": "GP_RPADLEFT"
+    },
+    {
+        "action": "ACCELERATE",
+        "key": "W"
+    },
+    {
+        "action": "ACCELERATE",
+        "key": "GP_RTRIGGER"
+    },
+    {
+        "action": "REVERSE",
+        "key": "S"
+    },
+    {
+        "action": "REVERSE",
+        "key": "GP_LTRIGGER"
+    },
+    {
+        "action": "TURN_LEFT",
+        "key": "A"
+    },
+    {
+        "action": "TURN_LEFT",
+        "key": "GP_LSTICKLEFT"
+    },
+    {
+        "action": "TURN_RIGHT",
+        "key": "D"
+    },
+    {
+        "action": "TURN_RIGHT",
+        "key": "GP_LSTICKRIGHT"
+    },
+    {
+        "action": "TOGGLE_AUTO_MOVE",
+        "key": "G"
+    },
+    {
+        "action": "TOGGLE_AUTO_MOVE",
+        "key": "GP_LSTICKBUTTON"
+    },
+    {
+        "action": "OPEN_CHAT",
+        "key": "T"
+    },
+    {
+        "action": "AIM",
+        "key": "MOUSE2"
+    },
+    {
+        "action": "AIM",
+        "key": "GP_LTRIGGER"
+    },
+    {
+        "action": "HOLD_BREATH",
+        "key": "LSHIFT"
+    },
+    {
+        "action": "HOLD_BREATH",
+        "key": "GP_LSTICKBUTTON"
+    },
+    {
+        "action": "HOLSTER_WEAPON",
+        "key": "H"
+    },
+    {
+        "action": "HOLSTER_WEAPON",
+        "key": "GP_LSHOULDER"
+    },
+    {
+        "action": "WIELD_HUNTERMATE",
+        "key": "TAB"
+    },
+    {
+        "action": "WIELD_HUNTERMATE",
+        "key": "GP_LSHOULDER"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_1",
+        "key": "1"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_2",
+        "key": "2"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_3",
+        "key": "3"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_4",
+        "key": "4"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_5",
+        "key": "5"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_6",
+        "key": "6"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_7",
+        "key": "7"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_8",
+        "key": "8"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_9",
+        "key": "9"
+    },
+    {
+        "action": "WIELD_EQUIPMENT_SLOT_10",
+        "key": "0"
+    },
+    {
+        "action": "SELECT_ITEM_NEXT",
+        "key": "MWHEELDOWN"
+    },
+    {
+        "action": "SELECT_ITEM_NEXT",
+        "key": "GP_LPADRIGHT"
+    },
+    {
+        "action": "SELECT_ITEM_PREV",
+        "key": "MWHEELUP"
+    },
+    {
+        "action": "SELECT_ITEM_PREV",
+        "key": "GP_LPADLEFT"
+    },
+    {
+        "action": "RUN",
+        "key": "LSHIFT"
+    },
+    {
+        "action": "RUN_TOGGLE",
+        "key": "CAPSLOCK"
+    },
+    {
+        "action": "RUN_TOGGLE",
+        "key": "GP_LSTICKBUTTON"
+    },
+    {
+        "action": "HEADLAMP",
+        "key": "L"
+    },
+    {
+        "action": "HEADLAMP",
+        "key": "GP_RSTICKBUTTON"
+    },
+    {
+        "action": "CROUCH",
+        "key": "LCONTROL"
+    },
+    {
+        "action": "CROUCH",
+        "key": "GP_RPADRIGHT"
+    },
+    {
+        "action": "PRONE",
+        "key": "Z"
+    },
+    {
+        "action": "PRONE",
+        "key": "GP_RPADRIGHT"
+    },
+    {
+        "action": "USE_SKILL",
+        "key": "F"
+    },
+    {
+        "action": "USE_SKILL",
+        "key": "GP_RSHOULDER"
+    },
+    {
+        "action": "QUICK_SWITCH_ITEM",
+        "key": "Q"
+    },
+    {
+        "action": "GUI_OPEN_MAP",
+        "key": "M"
+    },
+    {
+        "action": "GUI_OPEN_MISSIONS",
+        "key": "F5"
+    },
+    {
+        "action": "GUI_OPEN_INVENTORY",
+        "key": "F2"
+    },
+    {
+        "action": "GUI_OPEN_SKILLS",
+        "key": "F3"
+    },
+    {
+        "action": "GUI_OPEN_PERKS",
+        "key": "F4"
+    },
+    {
+        "action": "GUI_OPEN_JOURNAL",
+        "key": "F1"
+    },
+    {
+        "action": "GUI_OPEN_MULTIPLAYER",
+        "key": "F6"
+    },
+    {
+        "action": "GUI_SCOREBOARD",
+        "key": "I"
+    },
+    {
+        "action": "TOGGLE_SCOPE",
+        "key": "MOUSE3"
+    },
+    {
+        "action": "TOBII_CENTER_HEAD",
+        "key": "O"
+    },
+    {
+        "action": "WHISTLE",
+        "key": "X"
+    },
+    {
+        "action": "WHISTLE",
+        "key": "GP_RSHOULDER"
+    },
+    {
+        "action": "SWITCH_TROPHY_LODGE_EDITING_MODE",
+        "key": "V"
+    },
+    {
+        "action": "SWITCH_TROPHY_LODGE_EDITING_MODE",
+        "key": "GP_LPADUP"
+    },
+    {
+        "action": "PLACE_SWAP_TROPHY",
+        "key": "E"
+    },
+    {
+        "action": "PLACE_SWAP_TROPHY",
+        "key": "GP_RPADLEFT"
+    },
+    {
+        "action": "REMOVE_TROPHY",
+        "key": "Q"
+    },
+    {
+        "action": "REMOVE_TROPHY",
+        "key": "GP_RPADUP"
+    },
+    {
+        "action": "NEXT_POSE",
+        "key": "MOUSE2"
+    },
+    {
+        "action": "NEXT_POSE",
+        "key": "GP_RSHOULDER"
+    },
+    {
+        "action": "PREVIOUS_POSE",
+        "key": "MOUSE1"
+    },
+    {
+        "action": "PREVIOUS_POSE",
+        "key": "GP_LSHOULDER"
+    },
+    {
+        "action": "ROTATE_PLATFORM_LEFT",
+        "key": "LEFT"
+    },
+    {
+        "action": "ROTATE_PLATFORM_LEFT",
+        "key": "GP_LTRIGGER"
+    },
+    {
+        "action": "ROTATE_PLATFORM_RIGHT",
+        "key": "RIGHT"
+    },
+    {
+        "action": "ROTATE_PLATFORM_RIGHT",
+        "key": "GP_RTRIGGER"
+    },
+    {
+        "action": "TROPHYLODGE_FLIP",
+        "key": "R"
+    },
+    {
+        "action": "TROPHYLODGE_FLIP",
+        "key": "GP_RTRIGGER"
+    },
+    {
+        "action": "GUI_OPEN_COMMAND_WHEEL",
+        "key": "B"
+    },
+    {
+        "action": "GUI_OPEN_COMMAND_WHEEL",
+        "key": "GP_LPADDOWN"
+    },
+    {
+        "action": "A_GUI_OPEN_WEAPON_WHEEL",
+        "key": "MOUSE3"
+    },
+    {
+        "action": "A_GUI_OPEN_WEAPON_WHEEL",
+        "key": "GP_LPADUP"
+    },
+    {
+        "action": "A_GUI_WEAPON_WHEEL_CHANGE_AMMO",
+        "key": "Q"
+    },
+    {
+        "action": "A_GUI_WEAPON_WHEEL_CHANGE_AMMO",
+        "key": "GP_LSHOULDER"
+    },
+    {
+        "action": "A_GUI_WEAPON_WHEEL_CHANGE_SCOPE",
+        "key": "E"
+    },
+    {
+        "action": "A_GUI_WEAPON_WHEEL_CHANGE_SCOPE",
+        "key": "GP_RSHOULDER"
+    },
+    {
+        "action": "A_GUI_WEAPON_WHEEL_CANCEL",
+        "key": "MOUSE2"
+    },
+    {
+        "action": "A_GUI_WEAPON_WHEEL_CANCEL",
+        "key": "GP_RPADRIGHT"
+    },
+    {
+        "action": "A_SCOPE_ZOOM_IN",
+        "key": "MWHEELUP"
+    },
+    {
+        "action": "A_SCOPE_ZOOM_IN",
+        "key": "GP_LPADUP"
+    },
+    {
+        "action": "A_SCOPE_ZOOM_OUT",
+        "key": "MWHEELDOWN"
+    },
+    {
+        "action": "A_SCOPE_ZOOM_OUT",
+        "key": "GP_LPADDOWN"
+    },
+    {
+        "action": "A_PLACE_WAYPOINT_BINOCULARS",
+        "key": "R"
+    },
+    {
+        "action": "A_PLACE_WAYPOINT_BINOCULARS",
+        "key": "GP_RPADUP"
+    },
+    {
+        "action": "A_HIDE_ALL_CLUES",
+        "key": "U"
+    },
+    {
+        "action": "GUI_ONBOARDING_DISMISS",
+        "key": "J"
+    },
+    {
+        "action": "GUI_ONBOARDING_DISMISS",
+        "key": "GP_LPADDOWN"
+    }
+]
